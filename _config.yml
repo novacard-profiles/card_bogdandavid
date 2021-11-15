@@ -1,0 +1,26 @@
+page_title: Template 01 - Nova Card
+description: template-01 Nova Card profile
+baseurl: /
+url: https://template-01.novacard.ro
+avatar: avatar.jpeg
+contact-first_name: Nova
+contact-last_name: Card
+contact-title: Smart Business Cards
+contact-company: 
+contact-email: contact@novacard.me
+contact-phone: 
+contact-website: https://novacard.ro
+contact-facebook_url: 
+contact-linkedin_url: 
+contact-instagram_url: 
+contact-pinterest_url: 
+contact-twitter_url: 
+contact-youtube_url: 
+contact-snapchat_url: 
+contact-whatsapp_url: 
+contact-tiktok_url: 
+contact-telegram_url: 
+contact-skype_url: 
+contact-github_url: 
+contact-gitlab_url: 
+markdown: kramdown
