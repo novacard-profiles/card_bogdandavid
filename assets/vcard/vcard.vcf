@@ -8,5 +8,4 @@ ORG:BDmetal;
 TEL;type=CELL;type=VOICE;type=pref:+40756367342
 item1.URL;type=pref:http://bdmetal.ro/
 item1.X-ABLabel:_$!<HomePage>!$_
-X-SOCIALPROFILE;type=linkedin:https
 END:VCARD
